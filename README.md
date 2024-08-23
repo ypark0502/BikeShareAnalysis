@@ -1,5 +1,5 @@
 # Bike Share Price Analysis and Dashboard
-**Business Task**: This project involves developing a dashboard for a fictional bike share company that displays their key performance metrics to inform their financial decision making. The data is over 2 years and provided by the company.
+**Business Task**: This project involves developing a dashboard for a fictional bike share company that displays their key performance metrics to inform their financial decision making. The fictitious dataset is over a period of 2 years.
 
 **Technologies**: SQL Server, Power BI, Microsoft Excel
 ## Process
