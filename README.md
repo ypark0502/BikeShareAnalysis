@@ -32,7 +32,8 @@
   * ![excelscreenshot](https://github.com/user-attachments/assets/7dea1829-1a96-4afb-bd2c-c8f1674a3e0c)
 * Format results in Power BI in visually pleasing and informative way
 ## Recommendations
-* Price-setting Recommendations: According to the data, a slight to moderate price increase for the service could be a way to test the market response without risking a significant loss in users. A 10-15% increase as opposed to the 25% increase from 2021-2022 would set the price at $5.49 to $5.74.
+* Price-setting Recommendations:
+  * According to the data, a slight to moderate price increase for the service could be a way to test the market response without risking a significant loss in users. A 10-15% increase as opposed to the 25% increase from 2021-2022 would set the price at $5.49 to $5.74.
 * Future Recommendations:
   * Market Analysis: Conduct further market research to better understand customer satisfaction and the overall state of the economy. This can inform the relatively unusual positive price elasticity that was determined from the data, and prevent any overcorrections in pricing.
 
