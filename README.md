@@ -1,5 +1,5 @@
 # Bike Share Price Analysis and Dashboard
-**Business Task**: This project involves developing a dashboard for a fictional bike share company that displays their key performance metrics to inform their financial decision making. The fictitious dataset is over a period of 2 years.
+**Business Task**: This project involves developing a dashboard for a bike share company that displays their key performance metrics to inform their financial decision making. The dataset is over a period of 2 years.
 
 **Technologies**: SQL Server, Power BI, Microsoft Excel
 ## Process
@@ -28,14 +28,15 @@
     left join cost_table b
     on a.yr = b.yr
     ```
-* Perform calculations to answer business task
+* Perform calculations to see price elasticity between 2021 and 2022
   * ![excelscreenshot](https://github.com/user-attachments/assets/7dea1829-1a96-4afb-bd2c-c8f1674a3e0c)
 * Format results in Power BI in visually pleasing and informative way
 ## Recommendations
 * Price-setting Recommendations:
-  * According to the data, a slight to moderate price increase for the service could be a way to test the market response without risking a significant loss in users. A 10-15% increase as opposed to the 25% increase from 2021-2022 would set the price at $5.49 to $5.74.
+  * According to the data, revenue, profit, and total ride shares went up despite a 25% increase in price for the service. A cautious price increase for the service could be a way to test the market response without risking a significant loss in users. A 10-15% increase as opposed to the 25% increase from 2021-2022 would set the price at $5.49 to $5.74.
 * Future Recommendations:
   * Market Analysis: Conduct further market research to better understand customer satisfaction and the overall state of the economy. This can inform the relatively unusual positive price elasticity that was determined from the data, and prevent any overcorrections in pricing.
+  * The data shows a significant downturn in bike-sharing usage during statistically colder months on average. Finding a way to maintain memberships over these periods could be crucial to increasing profits
 
 
 Dashboard: ![dashboardscreenshot](https://github.com/user-attachments/assets/0ebcaf57-ab6a-4b51-b712-c8903ad0f56a)
